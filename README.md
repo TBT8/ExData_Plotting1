@@ -1,11 +1,17 @@
 ## Instructions
 ### This Repo has been updated with the following eight files:
 
- *plot1.png, plot2.png, plot3.png, plot4.png
-	These files are the output for the below four R scripts
+ * plot1.png 
+ * plot2.png
+ * plot3.png 
+ * plot4.png
+# These files are the output for the below four R scripts:
 
-*plot1.R, plot2.R, plot3.R, plot4.R
-	These scripts produce the plot listed above respectively.  They should also match the plots images below in this readme file.
+* plot1.R 
+* plot2.R 
+* plot3.R 
+* plot4.R
+# These scripts produce the plot listed above respectively.  They should also match the plots images below in this readme file.
 
 ### Each R script assumes that you have the data file (detailed below) in your working directory.  Each script will create the plot and save it to a .png file in your working directory.
 
