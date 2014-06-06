@@ -5,15 +5,12 @@
  * plot2.png
  * plot3.png 
  * plot4.png
+ * plot1.R 
+ * plot2.R 
+ * plot3.R 
+ * plot4.R
 
-#### These files are the output for the below four R scripts:
-
-* plot1.R 
-* plot2.R 
-* plot3.R 
-* plot4.R
-
-#### These scripts produce the plot listed above respectively.  They should also match the plots images below in this readme file.
+#### Each .png file is the output for the corresponding R script. The plots produced should also match the plot images below in this readme file.
 
 ### Each R script assumes that you have the data file (detailed below) in your working directory.  Each script will create the plot and save it to a .png file in your working directory.
 
